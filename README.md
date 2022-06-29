@@ -1,4 +1,7 @@
 # Rust_tut
 Doing some tutorials when learning rust. Most of it following language doc for now.
 
-Doing initial commit 
+also intial git account connection to PC
+Doing initial commit \
+
+Another commit testing from PC. 
