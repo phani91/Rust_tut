@@ -4,4 +4,4 @@ Doing some tutorials when learning rust. Most of it following language doc for n
 also intial git account connection to PC
 Doing initial commit \
 
-Another commit testing from PC. 
+Another commit testing from PC. another commit testing work PC
